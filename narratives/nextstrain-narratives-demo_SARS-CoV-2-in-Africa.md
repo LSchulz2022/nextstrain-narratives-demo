@@ -26,7 +26,7 @@ Content.
 
 Some more content.
 
-<img src="http://github.com/LSchulz2022/nextstrain-narratives-demo/blob/main/figures/toy_alignment_tree.png" alt="This is a representation of an alignment and corresponding phylogeny" width="" />
+<img src="https://github.com/LSchulz2022/nextstrain-narratives-demo/blob/main/figures/toy_alignment_tree.png" alt="This is a representation of an alignment and corresponding phylogeny" width="" />
 
 
 ```
