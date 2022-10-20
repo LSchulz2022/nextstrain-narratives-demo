@@ -20,11 +20,11 @@ Text to be displayed in the left-hand panel.
 
 <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/toy_alignment_tree.png" alt="This is a representation of a transmission disease infection chain" width="" />
 
-Content.
+### Content.
 
 ## More San Joaquin County SARS-COVID-2 cases
 
-Some more content.
+### Some more content.
 
 <img src="https://github.com/LSchulz2022/nextstrain-narratives-demo/blob/main/figures/toy_alignment_tree.png" alt="This is a representation of an alignment and corresponding phylogeny" width="" />
 
