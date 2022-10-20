@@ -18,7 +18,7 @@ Text to be displayed in the left-hand panel.
 
 ## San Joaquin County SARS-COVID-2 cases
 
-<img src="https://neherlab.org/talk_images/infection_tree_combine.png" alt="This is a representation of a transmission disease infection chain" width="" />
+<img src="https://neherlab.org/talk_images/infection_tree_combined.png" alt="This is a representation of a transmission disease infection chain" width="" />
 
 ### Content.
 
