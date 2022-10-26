@@ -35,3 +35,8 @@ Text to be displayed in the left-hand panel.
 - Overview tree for samples collected in USA, California, San Joaquin County between 2022-07-28 and 2022-10-20
 avatarBuilt with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid-logo.
 Showing 1213 of 1213 genomes sampled between Dec 2019 and Oct 2022.
+
+
+
+# [San Joaquin County phylogenetic tree - October 26]
+(https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzAzMzksICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTAtMjdUMjA6MzY6MjQuNDY5NDk4KzAwOjAwIn0=.8511f2aa8cc757fb47b89e170cda8f9c635e464f0149d158f70cac6e8f402f080454cb7349e473f2b8574d087b13a2837cc232fa5f07073205a04fd44999aebc?d=tree&p=full)
