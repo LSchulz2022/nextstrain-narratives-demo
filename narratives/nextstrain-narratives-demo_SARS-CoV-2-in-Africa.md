@@ -28,6 +28,7 @@ Text to be displayed in the left-hand panel.
 
 <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/toy_alignment_tree.png" alt="This is a representation of an alignment and corresponding phylogeny" width="100%" />
 
-#[San Joaquin County phylogenetic tree - October 26](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzAzMzksICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTAtMjdUMjA6MzY6MjQuNDY5NDk4KzAwOjAwIn0=.8511f2aa8cc757fb47b89e170cda8f9c635e464f0149d158f70cac6e8f402f080454cb7349e473f2b8574d087b13a2837cc232fa5f07073205a04fd44999aebc?d=tree&p=full)
+#[San Joaquin County phylogenetic tree](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzAzMzksICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTAtMjdUMjA6MzY6MjQuNDY5NDk4KzAwOjAwIn0=.8511f2aa8cc757fb47b89e170cda8f9c635e464f0149d158f70cac6e8f402f080454cb7349e473f2b8574d087b13a2837cc232fa5f07073205a04fd44999aebc?d=tree&p=full)
 
+Overview tree from October 26, 2022
 ```
