@@ -44,7 +44,8 @@ Text to be displayed in the left-hand panel.
 
 #[Dashboard representation of San Joaquin County SARS-CoV-2 cases for the past 3 months]
 
-<img src="https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc" alt="" width="100%" />
+<img src="https://github.com/LSchulz2022/nextstrain-narratives-demo/blob/main/figures/SARS-CoV-2_Dashboard_LHJ%20(1).pdf" alt="" width="100%" />
+
 
 ##need some more text
 
