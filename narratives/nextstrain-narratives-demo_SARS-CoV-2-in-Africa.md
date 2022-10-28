@@ -56,6 +56,8 @@ Text to be displayed in the left-hand panel.
 
 #[Another Dashboard representation]
 
+<img src="https://neherlab.org/talk_images/infection_tree_combined.png" alt="This is a representation of a transmission disease infection chain" width="100%" />
+
 ##another line of text
 
 
