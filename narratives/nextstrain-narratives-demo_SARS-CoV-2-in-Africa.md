@@ -44,5 +44,7 @@ Text to be displayed in the left-hand panel.
 
 #[Dashboard representation of San Joaquin County SARS-CoV-2 cases for the past 3 months]
 
+##need some more text
+
 
 ```
