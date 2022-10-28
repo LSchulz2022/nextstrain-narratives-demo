@@ -42,7 +42,7 @@ Text to be displayed in the left-hand panel.
 - to be displayed
 - in the left panel
 
-#[Dashboard representation of San Joaquin County SARS-CoV-2 cases for the past 3 months]
+#[Dashboard representation of San Joaquin County SARS-CoV-2 cases for the past 3 months](https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc)
 
 ##need some more text
 
