@@ -50,7 +50,7 @@ Text to be displayed in the left-hand panel.
 <img src="https://github.com/LSchulz2022/nextstrain-narratives-demo/blob/main/figures/SARS-CoV-2_Dashboard_LHJ%20(1).pdf" alt="" width="100%" />
 
 
-##need some more text
+##need some more text.
 
 
 
