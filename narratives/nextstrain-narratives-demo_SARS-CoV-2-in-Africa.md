@@ -43,19 +43,5 @@ Text to be displayed in the left-hand panel.
 - to be displayed
 - in the left panel
 
-#[Dashboard representation of San Joaquin County SARS-CoV-2 cases for the past 3 months]
-
-<img src="https://github.com/LSchulz2022/nextstrain-narratives-demo/blob/main/figures/SARS-CoV-2_Dashboard_LHJ%20(1).pdf" alt="" width="100%" />
-
-##need some more text.
-
-REM Here is a comment line, just for me in github
-
-#[Another Dashboard representation]
-
-<img src="https://neherlab.org/talk_images/infection_tree_combined.png" alt="This is a representation of a transmission disease infection chain" width="100%" />
-
-##another line of text
-
 
 ```
