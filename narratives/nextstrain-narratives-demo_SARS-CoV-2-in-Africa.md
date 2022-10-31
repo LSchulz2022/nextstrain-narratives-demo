@@ -38,13 +38,7 @@ Text to be displayed in the left-hand panel.
 
 ```auspiceMainDisplayMarkdown
 
-## (some text around the tree)
+# (some text around the tree)
 <img src="https://github.com/LSchulz2022/nextstrain-narratives-demo/blob/main/figures/SARS-CoV-2_Dashboard_LHJ%20(1).pdf" alt="" width="100%" />
-
-#[Friday, October 28, 2022 slide with no map](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzA3MzMsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTAtMjlUMTc6NDA6NDAuMzUxNDk0KzAwOjAwIn0=.b44d163dabb549c5f7671e1e98549d0bc3f0ef8ba4e69d1d8d2a611fe1913a572e4b6f71db2d72cb265ea8859a5b63fa7072f12160860b9a66b0b062e298a1d6?d=tree,entropy&label=clade:21L%20%28Omicron%29&p=full)
-
-- list of items
-- to be displayed
-- in the left panel
 
 ```
