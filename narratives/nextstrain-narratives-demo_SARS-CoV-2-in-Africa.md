@@ -30,3 +30,6 @@ Text to be displayed in the left-hand panel.
 
 ```
 
+#[New slide 3](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
+
