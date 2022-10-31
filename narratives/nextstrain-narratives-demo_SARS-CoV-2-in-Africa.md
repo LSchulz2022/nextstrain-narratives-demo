@@ -33,7 +33,9 @@ Text to be displayed in the left-hand panel.
 #[New slide 3](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
 ```auspiceMainDisplayMarkdown
-<img src="https://Users/lonnischulz/Downloads/SARS-CoV-2_Dashboard_LHJ%20(1)%20(1).pdf alt="alternative title" width="100%" />
+# Maybe needs some more text here?
+
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ%20(1)%20(1).pdf" alt="alternative title" width="100%" />
 
 ```
 
