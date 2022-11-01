@@ -30,8 +30,7 @@ Text to be displayed in the left-hand panel.
 
 ```
 
-#[New slide 3](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
-
+#[New slide 3](https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc)
 ```auspiceMainDisplayMarkdown
 # Maybe needs some more text here?
 
