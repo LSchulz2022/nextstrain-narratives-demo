@@ -35,7 +35,9 @@ Text to be displayed in the left-hand panel.
 ```auspiceMainDisplayMarkdown
 # Maybe needs some more text here?
 
-[]: # (This is a comment)
+
+< !-- *comment* --/>
+
 
 <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_SJC.pdf" alt="alternative title" width="100%" />
 
