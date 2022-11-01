@@ -30,7 +30,7 @@ Text to be displayed in the left-hand panel.
 
 ```
 
-#[New slide 3]
+#[New slide 3](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
 
 <img src="https://nextstrain-narratives-demo/figures/nextstrain_fetch_backend.czgenepi.org_v2_orgs_9_pathogens_SC2_auspice_access_eyJ0cmVlX2lkIjogNzA5NTAsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTEtMDNUMTU6MTc6MzQuOTAxNjA3KzAwOjAwIn0=.27e5a7aebde311ffcb899804a0eb02365c2110e79bafaa75ed668a.svg" alt="CZ GEN EPI view" width="100%" />
