@@ -45,5 +45,4 @@ Text to be displayed in the left-hand panel.
 <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_SJC.pdf" alt="alternative title" width="100%" />
 
 ```
-
-
+#[Slide 4](nextstrain-narratives-demo/figures/nextstrain_fetch_backend.czgenepi.org_v2_orgs_9_pathogens_SC2_auspice_access_eyJ0cmVlX2lkIjogNzA5NTAsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTEtMDNUMTU6MTc6MzQuOTAxNjA3KzAwOjAwIn0=.27e5a7aebde311ffcb899804a0eb02365c2110e79bafaa75ed668a.svg)
