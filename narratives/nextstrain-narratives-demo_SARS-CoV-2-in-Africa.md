@@ -35,7 +35,7 @@ Text to be displayed in the left-hand panel.
 ```auspiceMainDisplayMarkdown
 # Maybe needs some more text here?
 
-<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ%20(1)%20(1).pdf" alt="alternative title" width="100%" />
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_SJC.pdf" alt="alternative title" width="100%" />
 
 ```
 
