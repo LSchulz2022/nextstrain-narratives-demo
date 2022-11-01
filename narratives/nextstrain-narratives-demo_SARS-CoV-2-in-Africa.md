@@ -30,9 +30,12 @@ Text to be displayed in the left-hand panel.
 
 ```
 
-#[New slide 3](https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc)
+#[New slide 3]
+
 ```auspiceMainDisplayMarkdown
 # Maybe needs some more text here?
+
+[]: # (This is a comment)
 
 <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_SJC.pdf" alt="alternative title" width="100%" />
 
