@@ -5,6 +5,9 @@ date: "September 29, 2021"
 dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 ---
 
+#[Omicron samples in San Joaquin County since January 1, 2022](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
+
 #[Introduction to phylogenetic trees](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
 Text to be displayed in the left-hand panel.
