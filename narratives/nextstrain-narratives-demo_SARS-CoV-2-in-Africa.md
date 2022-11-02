@@ -13,6 +13,17 @@ left-side content
 
 Pango lineage page from Dashboard
 
+
+#[Pango lineage in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
+Pango lineage page for San Joaquin County from Dashboard
+
+
+
+
+
+
+
 #[Introduction to phylogenetic trees](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
 Text to be displayed in the left-hand panel.
