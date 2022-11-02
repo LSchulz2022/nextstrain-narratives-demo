@@ -9,6 +9,9 @@ dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 
 left-side content
 
+#[Pango lineage by county](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
+Pango lineage page from Dashboard
 
 #[Introduction to phylogenetic trees](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
@@ -35,4 +38,4 @@ Text to be displayed in the left-hand panel.
 
 ```
 
-#[Pango lineage by county]
+
