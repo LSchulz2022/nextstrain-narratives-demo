@@ -35,4 +35,4 @@ Text to be displayed in the left-hand panel.
 
 ```
 
-# [Pango lineage by county]
+#[Pango lineage by county]
