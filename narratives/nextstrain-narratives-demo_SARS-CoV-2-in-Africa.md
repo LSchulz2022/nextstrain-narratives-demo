@@ -34,3 +34,5 @@ Text to be displayed in the left-hand panel.
 <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/toy_alignment_tree.png" alt="This is a representation of an alignment and corresponding phylogeny" width="100%" />
 
 ```
+
+# [Pango lineage by county]
