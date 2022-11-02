@@ -20,8 +20,8 @@ Pango lineage page for San Joaquin County from Dashboard
 
 #[Phylogenetic Tree](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzA5NTAsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTEtMDRUMDI6MzA6MTEuOTU1MTk0KzAwOjAwIn0=.516c1804fdd5548afb00a2f937b2f71dba1c3b36123e9287543fb1a2aeedfe9a2448a20d2bfef304a7015ea97195095e34ba8a2a367b0182050fb68ee9cba334?d=tree&label=clade:21M%20%28Omicron%29&p=full)
 
-
-
+- Overview tree for samples collected in USA, California, San Joaquin County between 2022-08-09 and 2022-11-01
+- Showing 476 of 1175 genomes sampled between Aug 2021 and Oct 2022.
 
 
 
