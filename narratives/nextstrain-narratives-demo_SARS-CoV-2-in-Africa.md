@@ -9,6 +9,8 @@ dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 
 left-side content
 
+<!-- hidden comment -->
+
 #[Pango lineage by county](https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc)
 
 Pango lineage page from Dashboard
