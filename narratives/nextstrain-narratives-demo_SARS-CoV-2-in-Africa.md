@@ -11,10 +11,11 @@ left-side content
 
 <!-- hidden comment -->
 
-#[Pango lineage by county](https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc)
+#[Pango lineage by county](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
 Pango lineage page from Dashboard
 
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ_omicron.png" alt="This is from the Dashboard" width="100%" />
 
 #[Pango lineage in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
