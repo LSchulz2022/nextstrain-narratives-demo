@@ -21,10 +21,6 @@ Pango lineage page for San Joaquin County from Dashboard
 
 ```
 
-<!-- #[Pango lineage in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full) -->
-
-<!-- Pango lineage page for San Joaquin County from Dashboard -->
-
 #[Phylogenetic Tree](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzE0MjcsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTEtMTFUMTY6MDE6MTQuODAwODc1KzAwOjAwIn0=.60d51f1b84c091efaf970c75e67e67dbee7e83e79df2f090bee71e1cd8b70b7ebc0437b2b0d2b0e6c7fa59ba1eaf53c2b8b8d04a6d996b1ce468ca73fba3095d?c=pango_lineage&d=tree&label=clade:21M%20%28Omicron%29&p=full)
 
 Contextualized tree for San Joaquin County
@@ -34,11 +30,8 @@ Contextualized tree for San Joaquin County
 
 (click on Pangolin lineage arrow to see list of lineages)
 
-```auspiceMainDisplayMarkdown
 
-```
-
-#[Test of interactive non-Nextstrain screen]
+#[Test of interactive non-Nextstrain screen](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
 ```auspiceMainDisplayMarkdown
 
