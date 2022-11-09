@@ -5,19 +5,19 @@ date: "September 29, 2021"
 dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 ---
 
-#[Omicron samples in San Joaquin County since January 1, 2022](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+<!-- #[Omicron samples in San Joaquin County since January 1, 2022](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full) -->
 
-left-side content
+<!-- left-side content -->
 
 <!-- hidden comment -->
 
-<!-- #[Pango lineage by county](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full) -->
+#[Pango lineage by county](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
-<!-- Pango lineage page from Dashboard  -->
+Pango lineage page from Dashboard
 
-<!-- ```auspiceMainDisplayMarkdown. -->
+```auspiceMainDisplayMarkdown
 
-<!-- <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ_omicron.png" alt="This is from the Dashboard" width="100%" />. -->
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ_omicron.png" alt="This is from the Dashboard" width="100%" />
 
 ```
 
