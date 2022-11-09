@@ -32,8 +32,8 @@ Pango lineage page for San Joaquin County from Dashboard
 
 Contextualized tree for San Joaquin County
 
-- Overview tree for samples collected in USA, California, San Joaquin County between 2022-08-09 and 2022-11-01
-- Showing 476 of 1175 genomes sampled between Aug 2021 and Oct 2022.
+- Overview tree for samples collected in USA, California, San Joaquin County between 2022-08-17 and 2022-11-09
+- Showing 562 of 1353 genomes sampled between Aug 2021 and Nov 2022.
 
 ```auspiceMainDisplayMarkdown
 
