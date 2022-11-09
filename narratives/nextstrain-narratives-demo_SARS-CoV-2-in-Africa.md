@@ -31,6 +31,10 @@ Contextualized tree for San Joaquin County
 (click on Pangolin lineage arrow to see list of lineages)
 
 
+
+
+
+
 #[Test of interactive non-Nextstrain screen](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
 ```auspiceMainDisplayMarkdown
@@ -39,9 +43,15 @@ Contextualized tree for San Joaquin County
 <!-- <-iframe src="https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/1KnRC" height="200" width="300" title="iframe example"></iframe> -->
 
 
-<-iframe href="https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc" title="iframe example"></iframe>
+<!-- <-iframe href="https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc" title="iframe example"></iframe> -->
+
+<a href="dafault.asp"><img src="smiley.gif" alt="https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc"></a>
 
 ```
+
+
+
+
 
 #[Introduction to phylogenetic trees](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
