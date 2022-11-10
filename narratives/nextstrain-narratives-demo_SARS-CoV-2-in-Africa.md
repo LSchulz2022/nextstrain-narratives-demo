@@ -28,7 +28,7 @@ Pango lineage page for San Joaquin County from July 1, 2022 to today from Dashbo
 
 ```auspiceMainDisplayMarkdown
 
-<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ_omicron2.png" alt="This is from the Dashboard" width="100%" />
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ_lineagetracker.png" alt="This is from the Dashboard" width="100%" />
 
 ```
 
