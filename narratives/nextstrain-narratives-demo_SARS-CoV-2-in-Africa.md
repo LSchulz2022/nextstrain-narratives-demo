@@ -11,15 +11,30 @@ dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 
 <!-- hidden comment -->
 
-#[Pango lineage in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+#[Pango lineage in California](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
-Pango lineage page for San Joaquin County from Dashboard
+Pango lineage page in California from July 1, 2022 to today from Dashboard
 
 ```auspiceMainDisplayMarkdown
 
 <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ_omicron.png" alt="This is from the Dashboard" width="100%" />
 
 ```
+
+
+#[Pango lineage in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
+Pango lineage page for San Joaquin County from July 1, 2022 to today from Dashboard
+
+```auspiceMainDisplayMarkdown
+
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ_omicron2.png" alt="This is from the Dashboard" width="100%" />
+
+```
+
+
+
+
 
 #[Phylogenetic Tree](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzE0MjcsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTEtMTFUMTY6MDE6MTQuODAwODc1KzAwOjAwIn0=.60d51f1b84c091efaf970c75e67e67dbee7e83e79df2f090bee71e1cd8b70b7ebc0437b2b0d2b0e6c7fa59ba1eaf53c2b8b8d04a6d996b1ce468ca73fba3095d?c=pango_lineage&d=tree&label=clade:21M%20%28Omicron%29&p=full)
 
