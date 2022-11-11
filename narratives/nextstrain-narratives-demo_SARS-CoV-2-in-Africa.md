@@ -60,6 +60,9 @@ Here's a graph showing omicron cases in San Joaquin County from July 1, 2022 to 
 
 Click on this link to interact with the display on your own:
 
+(https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc)
+
+
 ```auspiceMainDisplayMarkdown
 
 <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ_sinceJuly.png" alt="From Dashboard" width="100%" />
