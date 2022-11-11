@@ -43,13 +43,9 @@ Contextualized tree for San Joaquin County
 #[Test of interactive non-Nextstrain screen](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
 
-
-
 Here's a graph showing omicron cases in San Joaquin County from July 1, 2022 to today
 
-
 Click on this link to interact with the display on your own:
-
 https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc
 
 
@@ -58,26 +54,19 @@ https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae
 <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ_sinceJuly.png" alt="From Dashboard" width="100%" />
 
 
-
-
-
-
+<!-- Various iframe attempts that didn't work! -->
 <!-- <-iframe src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2%20Dashboard%20LHJ%20›%20Omicron.html" height="200" width="300" title="Iframe test from my html file"></iframe> -->
-
 
 <!-- <-iframe src="file:///Users/lonnischulz/Downloads/SARS-CoV-2%20Dashboard%20LHJ%20%E2%80%BA%20Omicron.html" height="200" width="300" title="Iframe test with html"<>/iframe> -->
 
 <!-- <iframe src="demo_iframe.htm" height="200" width="300" title="Iframe Example"></iframe>-->
 <!-- <-iframe src="https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/1KnRC" height="200" width="300" title="iframe example"></iframe> -->
 
-
 <!-- <-iframe href="https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc" title="iframe example"></iframe> -->
 
 <!-- <a href="dafault.asp"><img src="smiley.gif" alt="https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc"></a> -->
 
 ```
-
-
 
 
 
