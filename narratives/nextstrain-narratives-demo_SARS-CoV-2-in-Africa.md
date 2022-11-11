@@ -1,6 +1,6 @@
 ---
 title: "SARS-CoV-2 in San Joaquin County, California"
-authors: "Lonni Schulz, myself, and another"
+authors: "Lonni Schulz"
 date: "November 15, 2022"
 dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 ---
