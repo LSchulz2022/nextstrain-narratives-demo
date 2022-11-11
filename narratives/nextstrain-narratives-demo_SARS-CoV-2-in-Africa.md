@@ -22,16 +22,6 @@ Pango lineage page in California from July 1, 2022 to today from Dashboard
 ```
 
 
-#[Pango lineage in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
-
-Pango lineage page for San Joaquin County from July 1, 2022 to today from Dashboard
-
-```auspiceMainDisplayMarkdown
-
-<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ_lineagetracker.png" alt="This is from the Dashboard" width="100%" />
-
-```
-
 
 
 
