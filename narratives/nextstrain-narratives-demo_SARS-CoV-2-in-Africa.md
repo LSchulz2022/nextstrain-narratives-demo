@@ -12,6 +12,13 @@ dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 
 #[Graph 3 – Pango lineages in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
+#[NCTree 1 San Joaquin County samples](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
+#[NCTree 2 San Joaquin County omicron samples](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
+#[NCTree 3 San Joaquin County BA.2 and sublineages samples](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
+#[NCTree 4 San Joaquin County BA.2 and sublineage samples labeled with sublineages](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
 
 
