@@ -60,7 +60,7 @@ https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae
 
 ```auspiceMainDisplayMarkdown
 
-<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ_sinceJuly.png" alt="From Dashboard" width="100%" />
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ_omicron_2022-11-17.png" alt="From Dashboard" width="100%" />
 
 
 <!-- Various iframe attempts that didn't work! -->
