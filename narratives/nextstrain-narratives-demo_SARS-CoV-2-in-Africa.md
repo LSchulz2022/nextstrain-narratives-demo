@@ -39,7 +39,7 @@ Contextualized tree for San Joaquin County
 - Showing 445 of 1271 genomes sampled between Oct 2021 and Nov 2022.
 
 
-(click on Pangolin lineage arrow to see list of lineages)
+<!-- (click on Pangolin lineage arrow to see list of lineages) -->
 
 
 
