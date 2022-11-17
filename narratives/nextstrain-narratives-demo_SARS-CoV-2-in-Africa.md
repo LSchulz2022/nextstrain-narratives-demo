@@ -49,10 +49,13 @@ Contextualized tree for San Joaquin County
 #[Test of interactive non-Nextstrain screen](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
 
-Here's a graph showing omicron cases in San Joaquin County from July 1, 2022 to today
+Here's a graph showing omicron cases in San Joaquin County from July 1, 2022 to November 17, 2022
 
 Click on this link to interact with the display on your own:
+
 https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc
+
+<!-- https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc -->
 
 
 ```auspiceMainDisplayMarkdown
