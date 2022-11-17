@@ -5,6 +5,48 @@ date: "November 15, 2022"
 dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 ---
 
+
+#[Graph 1 – BA.2 Omicron samples in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
+#[Graph 2 – Pango lineage by county in California](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
+#[Graph 3 – Pango lineages in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- #[Omicron samples in San Joaquin County since January 1, 2022](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full) -->
 
 <!-- left-side content -->
