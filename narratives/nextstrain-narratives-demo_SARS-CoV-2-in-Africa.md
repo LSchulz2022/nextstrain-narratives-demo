@@ -7,6 +7,9 @@ dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 
 
 #[Graph 1 – BA.2 Omicron samples in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+#[Graph 1 - BA.2 Omicron samples in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_1129_1.png" alt="San Joaquin County Omicron" width="100%" />
 
 #[Graph 2 – Pango lineage by county in California](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
