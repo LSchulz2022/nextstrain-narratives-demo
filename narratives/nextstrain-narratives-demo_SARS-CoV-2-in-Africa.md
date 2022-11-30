@@ -10,6 +10,7 @@ dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 
 September 1 - November 30, 2022
 
+Here are the number of cases of each variant found in San Joaquin County during September 1 - November 30, 2022:
 
 111 BA.5.2.1
 
@@ -41,6 +42,16 @@ September 1 - November 30, 2022
 
 How many BQ.1 and BQ.1.1 cases are in San Joaquin County?
 And how do these percentages compare to other counties in California?
+
+There are 12 BQ.1 cases and 11 BQ.1.1 cases.
+Therefore the percentage of cases that are BQ.1 or BQ.1.1 is
+
+          12 + 11
+          ------- = 0.0457 ==> ~4.6%
+            503
+            
+This differs from the percentages which appear on this graph because of all the variants which are not in the top 10            
+            4.15% + 4.53% = 8.68%
 
 ```auspiceMainDisplayMarkdown
 
