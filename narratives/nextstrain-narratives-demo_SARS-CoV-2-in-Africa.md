@@ -12,6 +12,7 @@ dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 
 September 1 - November 30, 2022
 
+
 111 BA.5.2.1
 
  43 BA.5.2
