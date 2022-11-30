@@ -12,6 +12,17 @@ dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 
 September 1 - November 30, 2022
 
+111 BA.5.2.1
+ 43 BA.5.2
+ 33 BA.5.1
+ 33 BF.5
+ 19 BF.7
+ 16 BA.5.5
+ 12 BF.26
+ 12 BA.4.6
+ 12 BQ.1
+ 11 BA.5.6
+
 ```auspiceMainDisplayMarkdown
 
 <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_1129_1.png" alt="San Joaquin County Omicron" width="100%" />
