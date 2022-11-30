@@ -50,8 +50,10 @@ Therefore the percentage of cases that are BQ.1 or BQ.1.1 is
           ------- = 0.0457 ==> ~4.6%
             503
             
-This differs from the percentages which appear on this graph because of all the variants which are not in the top 10            
-            4.15% + 4.53% = 8.68%
+(This differs from the percentages which appear on this graph because of all the variants which are not in the top 10
+
+
+            4.15% + 4.53% = 8.68%)
 
 ```auspiceMainDisplayMarkdown
 
