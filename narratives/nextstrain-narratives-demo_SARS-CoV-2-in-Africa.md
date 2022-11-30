@@ -39,8 +39,8 @@ September 1 - November 30, 2022
 
 #[Graph 2 – Pango lineage by county in California](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
-How much BQ.1 and BQ.1.1 is in San Joaquin County?
-And how do these compare to other counties in California?
+How many BQ.1 and BQ.1.1 cases are in San Joaquin County?
+And how do these percentages compare to other counties in California?
 
 ```auspiceMainDisplayMarkdown
 
