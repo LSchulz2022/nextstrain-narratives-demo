@@ -79,7 +79,11 @@ Omicron:
   11   BA.5.6
 
 
+```auspiceMainDisplayMarkdown
 
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_1129_3.png" alt="San Joaquin County Omicron" width="100%" />
+
+```
 
 
 
