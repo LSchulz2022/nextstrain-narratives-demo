@@ -34,7 +34,7 @@ Here are the number of cases of each omicron variant found in San Joaquin County
 
 ```auspiceMainDisplayMarkdown
 
-<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_1129_1.png" alt="San Joaquin County Omicron" width="100%" />
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_1130_1.png" alt="San Joaquin County Omicron" width="100%" />
 
 ```
 
@@ -57,7 +57,7 @@ Therefore the percentage of cases that are BQ.1 or BQ.1.1 is
 
 ```auspiceMainDisplayMarkdown
 
-<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_1129_2.png" alt="San Joaquin County Omicron" width="100%" />
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_1130_2.png" alt="San Joaquin County Omicron" width="100%" />
 
 ```
 
@@ -91,7 +91,7 @@ Omicron:
 
 ```auspiceMainDisplayMarkdown
 
-<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_1129_3.png" alt="San Joaquin County Omicron" width="100%" />
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_1130_3.png" alt="San Joaquin County Omicron" width="100%" />
 
 ```
 
