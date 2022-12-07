@@ -10,7 +10,7 @@ dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 
 September 1 - November 30, 2022
 
-Here are the number of cases of each omicron variant found in San Joaquin County during September 1 - November 30, 2022:
+Here are the number of cases of the top most abundant omicron variants found in San Joaquin County during September 1 - November 30, 2022:
 
 111 BA.5.2.1
 
@@ -209,7 +209,16 @@ Showing 239 of 239 genomes sampled between Dec 2019 and Nov 2022.
 
 
 
-#[Zoomed in](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjA6MTU6NTguODkwMTMzKzAwOjAwIn0=.b25eae7f315d98f376d8300cbb0d90186001ad7f518115e1ba70ef39f5d21f1e238e63d54ac28e96f2a9c8ca6fc6c805c9251f6b05abbde0104f2115d6c5827b?c=pango_lineage&d=tree&label=clade:22B%20%28Omicron%29&p=full)
+#[Zoomed in](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjA6MTU6NTguODkwMTMzKzAwOjAwIn0=.b25eae7f315d98f376d8300cbb0d90186001ad7f518115e1ba70ef39f5d21f1e238e63d54ac28e96f2a9c8ca6fc6c805c9251f6b05abbde0104f2115d6c5827b?c=pango_lineage&d=tree&p=full)
+
+
+
+
+<!-- (https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjA6MTU6NTguODkwMTMzKzAwOjAwIn0=.b25eae7f315d98f376d8300cbb0d90186001ad7f518115e1ba70ef39f5d21f1e238e63d54ac28e96f2a9c8ca6fc6c805c9251f6b05abbde0104f2115d6c5827b?c=pango_lineage&d=tree&label=clade:22B%20%28Omicron%29&p=full) -->
+
+
+
+
 
 
 
