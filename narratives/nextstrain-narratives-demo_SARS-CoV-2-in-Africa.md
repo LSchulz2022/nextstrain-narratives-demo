@@ -197,12 +197,9 @@ https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae
 #[Phylogenetic Tree](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzE2MjMsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDNUMDU6MzI6MDcuODIwNDIwKzAwOjAwIn0=.b4a295ac6aa2f45b6f05872f0d935b2a72b38390b191c63b0ef9a81ab02b701469f2727cef6fd1053b02a08a6dbbd9e3a897eb50aaa826f7acc8c65aaa369d05?c=pango_lineage&d=tree,entropy&dmin=2022-01-01&f_location=San%20Joaquin%20County&p=full)
 
 
-<!--(https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzE2OTAsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTEtMTlUMTc6MTU6NTAuMjI2MjQzKzAwOjAwIn0=.aae517c1f9db0cfcfd42c115a36557d38bcc02c109d82793a400fae6c9f6ee646c8a0c510688b1898fbea15f975350d6ba714374f1db4ca112d59f2d905fc88d?d=tree&p=full) -->
 
 
-<!-- (https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzE0MjcsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTEtMTNUMTk6NTU6MzYuMTQ2NDk5KzAwOjAwIn0=.aee045e7fff0b7f608a6dd06eb0a93e0bf96fbac9dd0133526b5bd191a3cfe2f9a9d122d777518a4b499959595face97dbb154f4d7030b16c6a03d67c64471b8?c=pango_lineage&d=tree,entropy&label=clade:21M%20%28Omicron%29&p=full) -->
 
-<!-- (https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzE0MjcsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTEtMTFUMTY6MDE6MTQuODAwODc1KzAwOjAwIn0=.60d51f1b84c091efaf970c75e67e67dbee7e83e79df2f090bee71e1cd8b70b7ebc0437b2b0d2b0e6c7fa59ba1eaf53c2b8b8d04a6d996b1ce468ca73fba3095d?c=pango_lineage&d=tree&label=clade:21M%20%28Omicron%29&p=full) -->
 
 Contextualized tree for San Joaquin County
 
