@@ -209,7 +209,7 @@ Showing 239 of 239 genomes sampled between Dec 2019 and Nov 2022.
 
 
 
-#[Zoomed in](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjA6MTU6NTguODkwMTMzKzAwOjAwIn0=.b25eae7f315d98f376d8300cbb0d90186001ad7f518115e1ba70ef39f5d21f1e238e63d54ac28e96f2a9c8ca6fc6c805c9251f6b05abbde0104f2115d6c5827b?c=pango_lineage&d=tree&p=full)
+#[Zoomed in](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjE6MjU6MjAuNDAyNjUxKzAwOjAwIn0=.b3473b6101ef3a4b878620076ae245a186a1a6a2933a4572c308e6b7b6614218b3a00d9274996340a2d6e5516fab007d355e8a4bfa275a563d7c4f3a69301978?c=pango_lineage&d=tree&label=clade:22B%20%28Omicron%29&p=full)
 
 
 
