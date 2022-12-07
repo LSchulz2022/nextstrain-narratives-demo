@@ -265,7 +265,7 @@ All samples are dated 2022-09-20 and are San Joaquin County samples
 
 Non_Contextualized tree for samples collected in USA, California, San Joaquin County between 2022-09-01 and 2022-12-01
 avatarBuilt with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid-logo.
-Showing 4 of 239 genomes sampled between Oct 2022 and Oct 2022. Filtered to { hCoV-19/USA/CA-CDPH-6000013488/2022, hCoV-19/USA/CA-CDPH-6000013489/2022, hCoV-19/USA/CA-CDPH-6000013490/2022, hCoV-19/USA/CA-CDPH-6000013491/2022, hCoV-19/USA/CA-CDPH-6000013492/2022, hCoV-19/USA/CA-CDPH-6000013493/2022, hCoV-19/USA/CA-CDPH-6000013494/2022, hCoV-19/USA/CA-CDPH-6000013496/2022, hCoV-19/USA/CA-CDPH-6000013497/2022, hCoV-19/USA/CA-CDPH-6000013498/2022, hCoV-19/USA/CA-CDPH-6000013499/2022, hCoV-19/USA/CA-CDPH-6000013500/2022, hCoV-19/USA/CA-CDPH-6000013501/2022, hCoV-19/USA/CA-CDPH-6000013502/2022}.
+Showing 4 of 239 genomes sampled between Oct 2022 and Oct 2022. 
 
 
 
