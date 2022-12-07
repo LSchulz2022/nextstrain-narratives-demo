@@ -192,7 +192,19 @@ https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae
 
 
 
-#[Phylogenetic Tree](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjA6MTU6NTguODkwMTMzKzAwOjAwIn0=.b25eae7f315d98f376d8300cbb0d90186001ad7f518115e1ba70ef39f5d21f1e238e63d54ac28e96f2a9c8ca6fc6c805c9251f6b05abbde0104f2115d6c5827b?c=pango_lineage&d=tree,entropy&p=full)
+#[Phylogenetic Tree](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjA6MTU6NTguODkwMTMzKzAwOjAwIn0=.b25eae7f315d98f376d8300cbb0d90186001ad7f518115e1ba70ef39f5d21f1e238e63d54ac28e96f2a9c8ca6fc6c805c9251f6b05abbde0104f2115d6c5827b?c=pango_lineage&d=tree&p=full)
+
+
+<!--(https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjA6MTU6NTguODkwMTMzKzAwOjAwIn0=.b25eae7f315d98f376d8300cbb0d90186001ad7f518115e1ba70ef39f5d21f1e238e63d54ac28e96f2a9c8ca6fc6c805c9251f6b05abbde0104f2115d6c5827b?c=pango_lineage&d=tree,entropy&p=full) -->
+
+
+Non_Contextualized tree for samples collected in USA, California, San Joaquin County between 2022-09-01 and 2022-12-01
+avatarBuilt with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid-logo.
+Showing 239 of 239 genomes sampled between Dec 2019 and Nov 2022.
+
+
+
+
 
 <!-- (https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzE2MjMsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDNUMDU6MzI6MDcuODIwNDIwKzAwOjAwIn0=.b4a295ac6aa2f45b6f05872f0d935b2a72b38390b191c63b0ef9a81ab02b701469f2727cef6fd1053b02a08a6dbbd9e3a897eb50aaa826f7acc8c65aaa369d05?c=pango_lineage&d=tree,entropy&dmin=2022-01-01&f_location=San%20Joaquin%20County&p=full) -->
 
