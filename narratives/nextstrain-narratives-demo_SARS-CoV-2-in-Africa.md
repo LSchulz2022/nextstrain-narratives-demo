@@ -113,34 +113,6 @@ Omicron:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- #[Omicron samples in San Joaquin County since January 1, 2022](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full) -->
 
 <!-- left-side content -->
@@ -250,7 +222,11 @@ All samples are dated 2022-09-20 and are San Joaquin County samples
 
 
 Non_Contextualized tree for samples collected in USA, California, San Joaquin County between 2022-09-01 and 2022-12-01
+
+
 avatarBuilt with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid-logo.
+
+
 Showing 4 of 239 genomes sampled between Oct 2022 and Oct 2022. 
 
 
