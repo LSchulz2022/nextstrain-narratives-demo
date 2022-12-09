@@ -204,7 +204,7 @@ avatarBuilt with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enab
 Showing 20 of 239 genomes sampled between Sep 2022 and Oct 2022. Filtered to nuc 24620T.
 
 
-
+(Click on EXPLORE THE DATA YOURSELF to zoom in to these samples and see more information about them)
 
 
 #[Zooming in on the larger cluster](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMTBUMTU6MzQ6MTguMzAyMzQxKzAwOjAwIn0=.e830bc68c4cd03721b0588b68c93115c6579d7ffef02350154fb9fc05bec56cf233b22f782f901dffca2dcd2f9a8d4bd09671a96a40dffcd896f0c8887edbb89?c=pango_lineage&d=tree&f_pango_lineage=BF.5&gt=ORF1b.1521S&p=full)
