@@ -176,6 +176,9 @@ avatarBuilt with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enab
 Showing 239 of 239 genomes sampled between Dec 2019 and Nov 2022.
 
 
+All samples on this tree and subsequent Non-Contextualized trees are San Joaquin County samples. These trees show the San Joaquin County samples in relation to each other but there are no samples from other areas for context.
+
+
 (Click on the down arrow to display list of variants)
 
 
@@ -218,7 +221,7 @@ Showing 14 of 239 genomes sampled between Sep 2022 and Sep 2022.
 
 
 
-All samples are dated 2022-09-20 and are San Joaquin County samples
+All samples are dated 2022-09-20 
 
 
 
