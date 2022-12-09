@@ -179,7 +179,7 @@ Showing 239 of 239 genomes sampled between Dec 2019 and Nov 2022.
 All samples on this tree and subsequent Non-Contextualized trees are San Joaquin County samples. These trees show the San Joaquin County samples in relation to each other but there are no samples from other areas for context.
 
 
-(Click on the down arrow to display list of variants)
+(Click on the down arrow next to Pangolin lineage to display list of variants)
 
 
 <!-- #[Zoomed in](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjE6MjU6MjAuNDAyNjUxKzAwOjAwIn0=.b3473b6101ef3a4b878620076ae245a186a1a6a2933a4572c308e6b7b6614218b3a00d9274996340a2d6e5516fab007d355e8a4bfa275a563d7c4f3a69301978?c=pango_lineage&d=tree&label=clade:22B%20%28Omicron%29&p=full) -->
