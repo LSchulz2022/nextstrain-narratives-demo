@@ -254,33 +254,6 @@ Showing 4 of 239 genomes sampled between Oct 2022 and Oct 2022.
 
 
 
-#[Zooming in on a BA.5.1 cluster](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjA6MTU6NTguODkwMTMzKzAwOjAwIn0=.b25eae7f315d98f376d8300cbb0d90186001ad7f518115e1ba70ef39f5d21f1e238e63d54ac28e96f2a9c8ca6fc6c805c9251f6b05abbde0104f2115d6c5827b?c=pango_lineage&d=tree&f_pango_lineage=BA.5.1&gt=nuc.12068T&p=full)
-
-
-
-Non_Contextualized tree for samples collected in USA, California, San Joaquin County between 2022-09-01 and 2022-12-01
-
-
-avatarBuilt with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid-logo.
-
-
-Showing 4 of 239 genomes sampled between Sep 2022 and Sep 2022. Filtered to BA.5.1 (11)∩ nuc 12068T.
-
-
-
-#[Zooming in on a BA.5.2.1 cluster](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjA6MTU6NTguODkwMTMzKzAwOjAwIn0=.b25eae7f315d98f376d8300cbb0d90186001ad7f518115e1ba70ef39f5d21f1e238e63d54ac28e96f2a9c8ca6fc6c805c9251f6b05abbde0104f2115d6c5827b?c=pango_lineage&d=tree&gt=nuc.5476G&p=full)
-
-
-
-Non_Contextualized tree for samples collected in USA, California, San Joaquin County between 2022-09-01 and 2022-12-01
-
-
-avatarBuilt with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid-logo.
-
-
-Showing 4 of 239 genomes sampled between Sep 2022 and Sep 2022. Filtered to nuc 5476G.
-
-
 
 
 
@@ -328,8 +301,7 @@ Showing 4 of 239 genomes sampled between Sep 2022 and Sep 2022. Filtered to nuc 
 
 
 
-
-#[Zooming in on BF.7 clusters](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjA6MTU6NTguODkwMTMzKzAwOjAwIn0=.b25eae7f315d98f376d8300cbb0d90186001ad7f518115e1ba70ef39f5d21f1e238e63d54ac28e96f2a9c8ca6fc6c805c9251f6b05abbde0104f2115d6c5827b?c=pango_lineage&d=tree&f_pango_lineage=BF.7&gt=nuc.5806T&p=full)
+#[Zooming in on a BA.5.1 cluster](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjA6MTU6NTguODkwMTMzKzAwOjAwIn0=.b25eae7f315d98f376d8300cbb0d90186001ad7f518115e1ba70ef39f5d21f1e238e63d54ac28e96f2a9c8ca6fc6c805c9251f6b05abbde0104f2115d6c5827b?c=pango_lineage&d=tree&f_pango_lineage=BA.5.1&gt=nuc.12068T&p=full)
 
 
 
@@ -339,7 +311,8 @@ Non_Contextualized tree for samples collected in USA, California, San Joaquin Co
 avatarBuilt with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid-logo.
 
 
-Showing 7 of 239 genomes sampled between Sep 2022 and Sep 2022. Filtered to BF.7 (11)∩ nuc 5806T.
+Showing 4 of 239 genomes sampled between Sep 2022 and Sep 2022. Filtered to BA.5.1 (11)∩ nuc 12068T.
+
 
 
 
