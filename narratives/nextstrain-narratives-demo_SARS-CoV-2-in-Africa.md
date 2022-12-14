@@ -242,7 +242,7 @@ Showing 8 of 135 genomes sampled between Sep 2022 and Sep 2022.
 ```auspiceMainDisplayMarkdown
 
 
-<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/BA5221_2022-12-13.png" alt="This figure shows 2 BF.5 clusters" width="100%" />
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/BA521_2022-12-13.png" alt="This figure shows a BA.5.2.1 cluster" width="100%" />
 
 
 ```
