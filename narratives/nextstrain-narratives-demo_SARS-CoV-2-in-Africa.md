@@ -99,18 +99,6 @@ Omicron:
 
 
 
-<!-- #[Non-Contextualized Tree 1 San Joaquin County samples](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
-
-#[Non-Contextualized Tree 2 San Joaquin County omicron samples](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
-
-#[Non-Contextualized Tree 3 San Joaquin County BA.2 and sublineages samples](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
-
-#[Non-Contextualized Tree 4 San Joaquin County BA.2 and sublineage samples labeled with sublineages](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full) -->
-
-
-
-
-
 
 
 <!-- #[Omicron samples in San Joaquin County since January 1, 2022](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full) -->
