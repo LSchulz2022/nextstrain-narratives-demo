@@ -204,12 +204,18 @@ Non_Contextualized tree for samples collected in USA, California, San Joaquin Co
 Built with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid.
 
 
+This figure shows 2 BF.5 clusters
+
+
+The cluster of 14 samples are all dated 2022-09-20
+
+
 <!-- (Click on EXPLORE THE DATA YOURSELF to zoom in to these samples and see more information about them) -->
 
 
 ```auspiceMainDisplayMarkdown
 
-#Text for right side
+<!-- #Text for right side -->
 
 <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/BF5_2022-12-13.png" alt="This figure shows 2 BF.5 clusters" width="100%" />
 
