@@ -164,16 +164,20 @@ https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae
 
 
 
-#[Phylogenetic Tree](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjA6MTU6NTguODkwMTMzKzAwOjAwIn0=.b25eae7f315d98f376d8300cbb0d90186001ad7f518115e1ba70ef39f5d21f1e238e63d54ac28e96f2a9c8ca6fc6c805c9251f6b05abbde0104f2115d6c5827b?c=pango_lineage&d=tree&p=full)
+#[Phylogenetic Tree](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzI1NDcsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMTZUMDM6Mzc6MDkuNTk0MTcxKzAwOjAwIn0=.6239c26eeb871da835334747917db4cdaa169e53b279a44575a7cd728ec1ecd6c69237a478146b5363f41e335dfc5afe25969fa481b63b10a61d7972ae78129b?c=pango_lineage&d=tree&label=clade:22B%20%28Omicron%29&m=num_date&p=full)
 
 
-Non_Contextualized tree for samples collected in USA, California, San Joaquin County between 2022-09-01 and 2022-12-01
+<!--(https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjA6MTU6NTguODkwMTMzKzAwOjAwIn0=.b25eae7f315d98f376d8300cbb0d90186001ad7f518115e1ba70ef39f5d21f1e238e63d54ac28e96f2a9c8ca6fc6c805c9251f6b05abbde0104f2115d6c5827b?c=pango_lineage&d=tree&p=full)-->
+
+
+Non_Contextualized tree for samples collected in USA, California, San Joaquin County between 2022-09-13 and 2022-12-13
 
 
 avatarBuilt with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid-logo.
 
 
-Showing 239 of 239 genomes sampled between Dec 2019 and Nov 2022.
+Showing 134 of 135 genomes sampled between Jul 2022 and Nov 2022.
+(The Wuhan root has been omitted)
 
 
 All samples on this tree and subsequent Non-Contextualized trees are San Joaquin County samples. These trees show the San Joaquin County samples in relation to each other but there are no samples from other areas for context.
