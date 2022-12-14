@@ -237,6 +237,28 @@ Showing 8 of 135 genomes sampled between Sep 2022 and Sep 2022.
 
 
 
+#[Phylogenetic Tree](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzI1NDcsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMTZUMDM6Mzc6MDkuNTk0MTcxKzAwOjAwIn0=.6239c26eeb871da835334747917db4cdaa169e53b279a44575a7cd728ec1ecd6c69237a478146b5363f41e335dfc5afe25969fa481b63b10a61d7972ae78129b?c=pango_lineage&d=tree&label=clade:22B%20%28Omicron%29&p=full)
+
+
+
+Non_Contextualized tree for samples collected in USA, California, San Joaquin County between 2022-09-13 and 2022-12-13
+
+
+Built with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid.
+
+
+Showing 134 of 135 genomes sampled between Jul 2022 and Nov 2022.
+(The Wuhan root has been omitted)
+
+
+(Click on the down arrow next to Pangolin lineage to display list of variants)
+
+Click on EXPLORE THE DATA YOURSELF to do just that.
+
+
+
+
+
 
 
 <!-- (click on Pangolin lineage arrow to see list of lineages) -->
