@@ -173,37 +173,6 @@ All samples on this tree and subsequent Non-Contextualized trees are San Joaquin
 (Click on the down arrow next to Pangolin lineage to display list of variants)
 
 
-<!-- #[Zoomed in](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjE6MjU6MjAuNDAyNjUxKzAwOjAwIn0=.b3473b6101ef3a4b878620076ae245a186a1a6a2933a4572c308e6b7b6614218b3a00d9274996340a2d6e5516fab007d355e8a4bfa275a563d7c4f3a69301978?c=pango_lineage&d=tree&label=clade:22B%20%28Omicron%29&p=full) -->
-
-
-
-<!-- same tree, just no Wuhan sample -->
-
-
-
-
-#[Phylogenetic Tree](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzI1NDcsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMTZUMDM6Mzc6MDkuNTk0MTcxKzAwOjAwIn0=.6239c26eeb871da835334747917db4cdaa169e53b279a44575a7cd728ec1ecd6c69237a478146b5363f41e335dfc5afe25969fa481b63b10a61d7972ae78129b?c=pango_lineage&d=tree&label=clade:22B%20%28Omicron%29&p=full)
-
-
-
-Non_Contextualized tree for samples collected in USA, California, San Joaquin County between 2022-09-13 and 2022-12-13
-
-
-Built with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid.
-
-
-Showing 134 of 135 genomes sampled between Jul 2022 and Nov 2022.
-(The Wuhan root has been omitted)
-
-
-```auspiceMainDisplayMarkdown
-
-
-<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/Clusters_2022-12-13.png" alt="This figure shows 2 BF.5 clusters" width="100%" />
-
-
-
-```
 
 
 
