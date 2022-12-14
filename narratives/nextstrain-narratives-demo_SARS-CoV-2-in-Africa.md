@@ -2,7 +2,8 @@
 title: "SARS-CoV-2 in San Joaquin County, California"
 authors: "Lonni Schulz"
 date: "December 15, 2022"
-dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
+dataset: https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzI1NDcsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMTZUMDM6Mzc6MDkuNTk0MTcxKzAwOjAwIn0=.6239c26eeb871da835334747917db4cdaa169e53b279a44575a7cd728ec1ecd6c69237a478146b5363f41e335dfc5afe25969fa481b63b10a61d7972ae78129b?c=pango_lineage&d=tree&label=clade:22B%20%28Omicron%29&p=full
+<!-- dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full -->
 ---
 
 
