@@ -168,10 +168,6 @@ https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae
 
 
 
-(https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzI1NDcsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMTZUMDM6Mzc6MDkuNTk0MTcxKzAwOjAwIn0=.6239c26eeb871da835334747917db4cdaa169e53b279a44575a7cd728ec1ecd6c69237a478146b5363f41e335dfc5afe25969fa481b63b10a61d7972ae78129b?c=pango_lineage&d=tree&label=clade:22B%20%28Omicron%29&m=num_date&p=full)
-
-
-
 Non_Contextualized tree for samples collected in USA, California, San Joaquin County between 2022-09-13 and 2022-12-13
 
 
@@ -206,9 +202,6 @@ Non_Contextualized tree for samples collected in USA, California, San Joaquin Co
 
 
 Built with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid.
-
-
-Showing 20 of 239 genomes sampled between Sep 2022 and Oct 2022.
 
 
 <!-- (Click on EXPLORE THE DATA YOURSELF to zoom in to these samples and see more information about them) -->
