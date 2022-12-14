@@ -171,7 +171,7 @@ https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae
 Non_Contextualized tree for samples collected in USA, California, San Joaquin County between 2022-09-13 and 2022-12-13
 
 
-avatarBuilt with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid-logo.
+Built with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid.
 
 
 Showing 134 of 135 genomes sampled between Jul 2022 and Nov 2022.
