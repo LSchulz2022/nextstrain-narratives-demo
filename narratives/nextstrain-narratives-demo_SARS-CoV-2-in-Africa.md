@@ -230,48 +230,6 @@ The cluster of 14 samples are all dated 2022-09-20
 
 
 
-<!-- #[Zooming in on the larger cluster](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMTBUMTU6MzQ6MTguMzAyMzQxKzAwOjAwIn0=.e830bc68c4cd03721b0588b68c93115c6579d7ffef02350154fb9fc05bec56cf233b22f782f901dffca2dcd2f9a8d4bd09671a96a40dffcd896f0c8887edbb89?c=pango_lineage&d=tree&f_pango_lineage=BF.5&gt=ORF1b.1521S&p=full)
-
-
-
-Non_Contextualized tree for samples collected in USA, California, San Joaquin County between 2022-09-01 and 2022-12-01
-
-
-avatarBuilt with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid-logo.
-
-
-Showing 14 of 239 genomes sampled between Sep 2022 and Sep 2022.
-
-
-
-All samples are dated 2022-09-20 
-
-
-
-
-
-#[Zooming in on the smaller cluster](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjA6MTU6NTguODkwMTMzKzAwOjAwIn0=.b25eae7f315d98f376d8300cbb0d90186001ad7f518115e1ba70ef39f5d21f1e238e63d54ac28e96f2a9c8ca6fc6c805c9251f6b05abbde0104f2115d6c5827b?c=pango_lineage&d=tree&f_pango_lineage=BF.5&gt=S.255F&p=full)
-
-
-
-<!-- [image](https://user-images.githubusercontent.com/115737447/206559701-70bb845d-c399-4fa1-a316-17cbffe582b5.png) -->
-
-
-Non_Contextualized tree for samples collected in USA, California, San Joaquin County between 2022-09-01 and 2022-12-01
-
-
-avatarBuilt with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid-logo.
-
-
-Showing 4 of 239 genomes sampled between Oct 2022 and Oct 2022. -->
-
-
-
-
-
-
-
-
 
 #[Zooming in on BF.7 clusters](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzIwNTYsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjItMTItMDlUMjA6MTU6NTguODkwMTMzKzAwOjAwIn0=.b25eae7f315d98f376d8300cbb0d90186001ad7f518115e1ba70ef39f5d21f1e238e63d54ac28e96f2a9c8ca6fc6c805c9251f6b05abbde0104f2115d6c5827b?c=pango_lineage&d=tree&f_pango_lineage=BF.7&gt=nuc.5806T&p=full)
 
@@ -325,27 +283,27 @@ Showing 4 of 239 genomes sampled between Sep 2022 and Sep 2022. Filtered to BA.5
 
 
 
-#[Introduction to phylogenetic trees](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+<!-- #[Introduction to phylogenetic trees](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full) -->
 
-Text to be displayed in the left-hand panel.
+<!-- Text to be displayed in the left-hand panel. -->
 
 <!-- - 1 - first point -->
 <!-- - 2 - second point -->
 <!-- - 3 - third point -->
 
-```auspiceMainDisplayMarkdown
+<!-- ```auspiceMainDisplayMarkdown -->
 <!-- # Introduction to phylogenetic trees -->
 
 <!-- ## San Joaquin County SARS-COVID-2 cases -->
 
 <!-- <img src="https://neherlab.org/talk_images/infection_tree_combined.png" alt="This is a representation of a transmission disease infection chain" width="100%" /> -->
 
-### Content
+<!-- ### Content -->
 
 <!-- ## More San Joaquin County SARS-COVID-2 cases -->
 
 <!-- ### Some more extended content. -->
 
-<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/toy_alignment_tree.png" alt="This is a representation of an alignment and corresponding phylogeny" width="100%" />
+<!-- <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/toy_alignment_tree.png" alt="This is a representation of an alignment and corresponding phylogeny" width="100%" /> -->
 
-```
+<!-- ``` -->
