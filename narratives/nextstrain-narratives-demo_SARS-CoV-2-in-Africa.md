@@ -11,7 +11,9 @@ dataset: https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/S
 
 #[Pango lineage in California](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
-Pango lineage page in California from September 13, 2022 to December 13, 2022 from Dashboard
+Pango lineage page in California
+from September 13, 2022 to December 13, 2022
+from Dashboard
 
 ```auspiceMainDisplayMarkdown
 
