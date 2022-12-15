@@ -107,8 +107,8 @@ There are 12 BQ.1 cases and 11 BQ.1.1 cases.
 Therefore the percentage of cases that are BQ.1 or BQ.1.1 is
 
           34 + 14
-          ------- = 0.1159 ==> ~11.6%
-            414
+          ------- = 0.1165 ==> ~11.7%
+            412
             
 (This differs from the percentages which appear on this graph because of all the variants which are not in the top 10
 
