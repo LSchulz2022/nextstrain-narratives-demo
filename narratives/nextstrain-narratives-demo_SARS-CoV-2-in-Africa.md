@@ -87,6 +87,13 @@ from September 13, 2022 to December 13, 2022
 
 from Dashboard
 
+
+
+Note that San Joaquin County has a large percentage of BF.5 cases: 29 at 12.89%.
+
+This is a higher number of BF.5 cases than in any other county.
+
+
 ```auspiceMainDisplayMarkdown
 
 <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_2022-12-13_bycounty.png" alt="This is from the Dashboard" width="100%" />
