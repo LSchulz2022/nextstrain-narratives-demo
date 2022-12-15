@@ -11,13 +11,26 @@ dataset: https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/S
 
 #[Omicron cases in California](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
-Pango lineage page in California
+Pango lineage in California
 from September 13, 2022 to December 13, 2022
 from Dashboard
 
 ```auspiceMainDisplayMarkdown
 
 <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_2022-12-13_1.png" alt="This is from the Dashboard" width="100%" />
+
+```
+
+
+#[Omicron cases in California by county](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
+Pango lineage by County in California
+from September 13, 2022 to December 13, 2022
+from Dashboard
+
+```auspiceMainDisplayMarkdown
+
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_2022-12-13_bycounty.png" alt="This is from the Dashboard" width="100%" />
 
 ```
 
