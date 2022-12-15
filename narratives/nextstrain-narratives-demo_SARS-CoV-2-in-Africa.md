@@ -7,6 +7,27 @@ dataset: https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/S
 ---
 
 
+
+
+#[Pango lineage in California](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
+Pango lineage page in California from September 13, 2022 to  from Dashboard
+
+```auspiceMainDisplayMarkdown
+
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ_2022-12-13_1.png" alt="This is from the Dashboard" width="100%" />
+
+```
+
+
+
+
+
+
+
+
+
+
 #[Graph 1 - BA.2 Omicron samples in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
 September 1 - November 30, 2022
