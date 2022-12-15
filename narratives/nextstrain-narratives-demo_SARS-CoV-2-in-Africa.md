@@ -15,14 +15,9 @@ Pango lineage page in California from September 13, 2022 to December 13, 2022 fr
 
 ```auspiceMainDisplayMarkdown
 
-<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ_2022-12-13_1.png" alt="This is from the Dashboard" width="100%" />
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_2022-12-13_1.png" alt="This is from the Dashboard" width="100%" />
 
 ```
-
-
-
-
-
 
 
 
