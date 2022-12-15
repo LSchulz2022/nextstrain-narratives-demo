@@ -156,25 +156,6 @@ Omicron:
 
 
 
-
-<!-- #[Omicron samples in San Joaquin County since January 1, 2022](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full) -->
-
-<!-- left-side content -->
-
-<!-- hidden comment -->
-
-#[Pango lineage in California](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
-
-Pango lineage page in California from July 1, 2022 to today from Dashboard
-
-```auspiceMainDisplayMarkdown
-
-<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_LHJ_omicron.png" alt="This is from the Dashboard" width="100%" />
-
-```
-
-
-
 #[Test of interactive non-Nextstrain screen](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
 
