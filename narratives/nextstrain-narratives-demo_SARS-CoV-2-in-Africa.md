@@ -117,39 +117,7 @@ Therefore the percentage of cases that are BQ.1 or BQ.1.1 is
 
 ```
 
-#[Graph 3 – Pango lineages in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
-Frequencies of top ten lineages found in San Joaquin County
-September 13 - December 13, 2022:
-
-Omicron:
-
- 111   BA.5.2.1
- 
-  43   BA.5.2
-  
-  33   BA.5.1
-  
-  33   BF.5
-  
-  19   BF.7
-  
-  16   BA.5.5
-  
-  12   BF.26
-  
-  12   BA.4.6
-  
-  12   BQ.1
-  
-  11   BA.5.6
-
-
-```auspiceMainDisplayMarkdown
-
-<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_2022-12-13_SJC.png" alt="San Joaquin County Omicron" width="100%" />
-
-```
 
 
 
