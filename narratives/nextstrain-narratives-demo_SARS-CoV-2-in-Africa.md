@@ -25,7 +25,7 @@ from Dashboard
 
 
 
-#[Omicron cases in California](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+#[Omicron cases in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
 Pango lineage in San Joaquin County
 
@@ -106,18 +106,19 @@ And how do these percentages compare to other counties in California?
 There are 12 BQ.1 cases and 11 BQ.1.1 cases.
 Therefore the percentage of cases that are BQ.1 or BQ.1.1 is
 
-          12 + 11
-          ------- = 0.0457 ==> ~4.6%
-            503
+          34 + 14
+          ------- = 0.1159 ==> ~11.6%
+            414
             
 (This differs from the percentages which appear on this graph because of all the variants which are not in the top 10
 
 
-            4.15% + 4.53% = 8.68%)
+          14.35% + 5.91% = 20.26%)
+
 
 ```auspiceMainDisplayMarkdown
 
-<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_1130_2.png" alt="San Joaquin County Omicron" width="100%" />
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/SARS-CoV-2_Dashboard_2022-12-13_bycounty.png" alt="San Joaquin County Omicron" width="100%" />
 
 ```
 
