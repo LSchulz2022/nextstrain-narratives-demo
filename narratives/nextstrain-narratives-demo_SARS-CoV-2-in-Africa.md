@@ -48,25 +48,25 @@ September 13 - December 13, 2022
 
 Here are the number of cases of the top most abundant omicron variants found in San Joaquin County during September 13 - December 13, 2022:
 
-111 BA.5.2.1
-
- 43 BA.5.2
+ 60 BA.5.2.1
  
- 33 BA.5.1
+ 34 BQ.1
  
- 33 BF.5
+ 34 BA.5.2
  
- 19 BF.7
+ 29 BF.5
  
- 16 BA.5.5
+ 26 BA.5.1
  
- 12 BF.26
+ 14 BQ.1.1
  
- 12 BA.4.6
+ 12 BF.7
  
- 12 BQ.1
+ 11 BA.2.3.20
  
- 11 BA.5.6
+  9 BA.5.5
+ 
+  8 BQ.1.11
 
 ```auspiceMainDisplayMarkdown
 
