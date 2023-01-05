@@ -1,8 +1,8 @@
 ---
-title: "SARS-CoV-2 circulation in Africa"
-authors: "John Huddleston"
-date: "September 29, 2021"
-dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
+title: "SARS-CoV-2 in San Joaquin County, California"
+authors: "Lonni Schulz"
+date: "January 5, 2023"
+dataset: https://nextstrain.org/ncov/gisaid/global/6m?c=emerging_lineage&d=tree,frequencies&m=div&p=full)
 ---
 
 #[Introduction to phylogenetic trees](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
