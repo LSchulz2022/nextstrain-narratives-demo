@@ -7,7 +7,7 @@ dataset: https://nextstrain.org/ncov/gisaid/global/6m?c=emerging_lineage&d=tree&
 
 
 
-# [Global tree of SARS-CoV-2 sequences](https://nextstrain.org/ncov/gisaid/global/6m?c=emerging_lineage&d=tree,frequencies&m=div&p=full)
+# [Global tree of SARS-CoV-2 sequences](https://nextstrain.org/ncov/gisaid/global/6m?c=emerging_lineage&d=tree&m=div&p=full)
 
 
 
