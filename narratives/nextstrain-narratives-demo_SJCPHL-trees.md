@@ -19,7 +19,7 @@ Showing 1477 of 1477 genomes sampled between Dec 2019 and Dec 2022.
 
 
 
-(Click on the down arrow after "Pangolin lineage" to see the list)
+(Click on the down arrow after "Emerging Lineage" to see the list)
 
 
 
