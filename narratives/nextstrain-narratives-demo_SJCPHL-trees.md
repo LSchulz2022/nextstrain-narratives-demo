@@ -56,7 +56,8 @@ Showing 1477 of 1477 genomes sampled between Dec 2019 and Dec 2022.
 
 
 
-# [Omicron cases in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+# [Omicron cases in San Joaquin County](https://nextstrain.org/ncov/gisaid/global/6m?c=emerging_lineage&d=tree&m=div&p=full)
+<!-- (https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full) -->
 
 Pango lineage in San Joaquin County
 
@@ -79,7 +80,8 @@ Top 10 lineages seen in San Joaquin County are shown.
 
 
 
-# [Omicron cases in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+# [Omicron cases in San Joaquin County](https://nextstrain.org/ncov/gisaid/global/6m?c=emerging_lineage&d=tree&m=div&p=full)
+<!-- (https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full) -->
 
 Pango lineages in all California counties
 
