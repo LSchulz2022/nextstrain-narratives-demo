@@ -125,6 +125,52 @@ https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae
 
 
 
+
+
+
+
+# [Omicron cases in San Joaquin County](https://nextstrain.org/ncov/gisaid/global/6m?c=emerging_lineage&d=tree&m=div&p=full)
+
+
+
+from September 1, 2022 to December 31, 2022
+
+by week
+
+from Dashboard
+
+
+
+Click on this link to interact with the display on your own:
+
+https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/zyZQC
+
+<!-- https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc -->
+
+
+
+```auspiceMainDisplayMarkdown
+
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/Dashboard_Omicron_2022-12-31_4months.png" alt="This is from the Dashboard" width="100%" />
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # [San Joaquin County SARS-CoV-2 samples](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzMxMjksICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjMtMDEtMTZUMDA6Mjc6MDcuNTc0NDI4KzAwOjAwIn0=.976a1ce4f4d72f7b4bbf7b208957e82e2e8fd851595374abd9dba6a9028d418579d6ae4f9141e58dad6a16c334d69380e9e9ffced07769b07f551e389f34d6e1?c=pango_lineage&d=tree&p=full&s=hCoV-19/USA/CA-CDPH-FS25390504/2022,hCoV-19/USA/CA-CDPH-FS25390476/2022,hCoV-19/USA/CA-CDPH-FS25390468/2022,hCoV-19/USA/CA-CDPH-FS25388455/2022,hCoV-19/USA/CA-CDPH-FS25388444/2022,hCoV-19/USA/CA-CDPH-FS25388443/2022,hCoV-19/USA/CA-CDPH-FS25388430/2022,hCoV-19/USA/CA-CDPH-6000013502/2022,hCoV-19/USA/CA-CDPH-6000013501/2022,hCoV-19/USA/CA-CDPH-6000013500/2022,hCoV-19/USA/CA-CDPH-6000013499/2022,hCoV-19/USA/CA-CDPH-6000013498/2022,hCoV-19/USA/CA-CDPH-6000013497/2022,hCoV-19/USA/CA-CDPH-6000013496/2022,hCoV-19/USA/CA-CDPH-6000013494/2022,hCoV-19/USA/CA-CDPH-6000013493/2022,hCoV-19/USA/CA-CDPH-6000013492/2022,hCoV-19/USA/CA-CDPH-6000013491/2022,hCoV-19/USA/CA-CDPH-6000013490/2022,hCoV-19/USA/CA-CDPH-6000013489/2022,hCoV-19/USA/CA-CDPH-6000013488/2022,hCoV-19/USA/CA-CDPH-500079896/2022,hCoV-19/USA/CA-CDPH-500079865/2022,hCoV-19/USA/CA-CDPH-500079860/2022,hCoV-19/USA/CA-CDPH-500079859/2022,hCoV-19/USA/CA-CDPH-500079854/2022,hCoV-19/USA/CA-CDPH-500079808/2022,hCoV-19/USA/CA-CDPH-500079771/2022,hCoV-19/USA/CA-CDPH-500079767/2022,hCoV-19/USA/CA-CDPH-500079761/2022,hCoV-19/USA/CA-CDPH-500079758/2022,hCoV-19/USA/CA-CDPH-500079754/2022,hCoV-19/USA/CA-CDPH-500079692/2022)
 
 
