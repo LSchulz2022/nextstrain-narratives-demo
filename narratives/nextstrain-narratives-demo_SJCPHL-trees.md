@@ -2,7 +2,7 @@
 title: "SARS-CoV-2 in San Joaquin County, California"
 authors: "Lonni Schulz"
 date: "January 10, 2023"
-dataset: https://nextstrain.org/ncov/gisaid/global/6m?c=emerging_lineage&d=tree,frequencies&m=div&p=full)
+dataset: https://nextstrain.org/ncov/gisaid/global/6m?c=emerging_lineage&d=tree&m=div&p=full)
 ---
 
 
