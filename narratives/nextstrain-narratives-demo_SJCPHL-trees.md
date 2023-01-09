@@ -19,6 +19,11 @@ Built with nextstrain/ncov. Maintained by the Nextstrain team. Enabled by data f
 Showing genomes sampled between Dec 2019 and Jan 2023.
 
 
+
+
+(Click on the down arrow after "Emerging Lineage" to see the list)
+
+
 # [San Joaquin County SARS-CoV-2 samples](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzMxMzMsICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjMtMDEtMTZUMDA6MjE6NTcuOTYyOTU3KzAwOjAwIn0=.eda91a894ed5a2da80d57265b8a199c02bb6ec962157dbdbde7ae2b6e78df2242edfe680d15db6d87a0a40e00d67f2bda74a47bea247861070a8969e4ad5f07d?d=tree&p=full)
 
 
