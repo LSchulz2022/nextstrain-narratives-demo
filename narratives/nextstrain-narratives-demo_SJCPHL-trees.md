@@ -91,7 +91,7 @@ from Dashboard
 
 
 
-Top 10 lineages seen all counties are shown.
+Top 10 lineages in all counties are shown.
 
 ```auspiceMainDisplayMarkdown
 
