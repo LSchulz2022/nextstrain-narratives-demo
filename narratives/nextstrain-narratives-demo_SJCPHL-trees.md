@@ -1,7 +1,7 @@
 ---
 title: "SARS-CoV-2 in San Joaquin County, California"
 authors: "Lonni Schulz"
-date: "January 5, 2023"
+date: "January 10, 2023"
 dataset: https://nextstrain.org/ncov/gisaid/global/6m?c=emerging_lineage&d=tree,frequencies&m=div&p=full)
 ---
 
@@ -63,6 +63,10 @@ Pango lineage in San Joaquin County
 from September 1, 2022 to December 31, 2022
 
 from Dashboard
+
+
+
+Top 10 lineages seen in San Joaquin County are shown/listed.
 
 ```auspiceMainDisplayMarkdown
 
