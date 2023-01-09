@@ -143,10 +143,7 @@ from Dashboard
 
 Click on this link to interact with the display on your own:
 
-https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/zyZQC
-
-<!-- https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc -->
-
+https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_rm0f1xitqc
 
 
 ```auspiceMainDisplayMarkdown
