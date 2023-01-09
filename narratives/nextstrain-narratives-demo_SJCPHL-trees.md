@@ -66,7 +66,7 @@ from Dashboard
 
 
 
-Top 10 lineages seen in San Joaquin County are shown/listed.
+Top 10 lineages seen in San Joaquin County are shown.
 
 ```auspiceMainDisplayMarkdown
 
