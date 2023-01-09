@@ -79,7 +79,23 @@ Top 10 lineages seen in San Joaquin County are shown.
 
 
 
+# [Omicron cases in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
+Pango lineages in all California counties
+
+from September 1, 2022 to December 31, 2022
+
+from Dashboard
+
+
+
+Top 10 lineages seen all counties are shown.
+
+```auspiceMainDisplayMarkdown
+
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/Dashboard_Pango_2022-12-31_4months.png" alt="This is from the Dashboard" width="100%" />
+
+```
 
 
 
