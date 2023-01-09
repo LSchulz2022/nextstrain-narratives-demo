@@ -56,7 +56,7 @@ Showing 1477 of 1477 genomes sampled between Dec 2019 and Dec 2022.
 
 
 
-#[Omicron cases in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+# [Omicron cases in San Joaquin County](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
 
 Pango lineage in San Joaquin County
 
