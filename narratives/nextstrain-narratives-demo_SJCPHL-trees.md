@@ -131,15 +131,11 @@ https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae
 
 # [Omicron cases in San Joaquin County](https://nextstrain.org/ncov/gisaid/global/6m?c=emerging_lineage&d=tree&m=div&p=full)
 
-
-
 from September 1, 2022 to December 31, 2022
 
 by week
 
 from Dashboard
-
-
 
 Click on this link to interact with the display on your own:
 
@@ -159,7 +155,25 @@ https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae
 
 
 
+# [All SARS-CoV-2 cases in San Joaquin County](https://nextstrain.org/ncov/gisaid/global/6m?c=emerging_lineage&d=tree&m=div&p=full)
 
+from September 1, 2022 to December 31, 2022
+
+by week
+
+from Dashboard
+
+(note that there are 4 recombinant lineages in San Joaquin County.)
+
+Click on this link to interact with the display on your own:
+
+https://datastudio.google.com/u/1/reporting/8347926b-2ce4-4785-933b-ff2db6d3eaae/page/p_lf9y1azonc
+
+```auspiceMainDisplayMarkdown
+
+<img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/Dashboard_LineageTracker_2022-12-31_4months.png" alt="This is from the Dashboard" width="100%" />
+
+```
 
 
 
