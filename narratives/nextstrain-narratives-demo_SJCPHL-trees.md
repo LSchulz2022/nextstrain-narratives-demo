@@ -93,6 +93,13 @@ from Dashboard
 
 Top 10 lineages in all counties are shown.
 
+
+
+
+
+
+XBB.1 has appeared in San Joaquin County but there are not as many XBB.1 cases in San Joaquin County as there are in some other counties.
+
 ```auspiceMainDisplayMarkdown
 
 <img src="https://raw.githubusercontent.com/LSchulz2022/nextstrain-narratives-demo/main/figures/Dashboard_Pango_2022-12-31_4months.png" alt="This is from the Dashboard" width="100%" />
