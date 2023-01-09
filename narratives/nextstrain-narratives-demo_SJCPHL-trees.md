@@ -18,6 +18,8 @@ dataset: https://nextstrain.org/ncov/gisaid/global/6m?c=emerging_lineage&d=tree,
 
 (Click on the down arrow after "Pangolin lineage" to see the list)
 
+new line for being sure
+
 <!-- Text to be displayed in the left-hand panel.-->
 
 <!-- - 1 - first point -->
