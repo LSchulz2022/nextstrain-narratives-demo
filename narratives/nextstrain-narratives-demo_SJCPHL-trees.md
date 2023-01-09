@@ -163,7 +163,7 @@ by week
 
 from Dashboard
 
-(note that there are 4 recombinant lineages in San Joaquin County.)
+(note that there are 4 recombinant lineages in San Joaquin County. They are listed first at the bottom of the display.)
 
 Click on this link to interact with the display on your own:
 
