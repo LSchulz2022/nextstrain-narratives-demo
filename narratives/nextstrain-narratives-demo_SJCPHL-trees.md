@@ -158,3 +158,5 @@ Non_Contextualized tree for samples collected in USA, California, San Joaquin Co
 Built with nextstrain/ncov. Maintained by Chan Zuckerberg Initiative. Enabled by data from gisaid.
 
 Showing 33 of 275 genomes sampled between Sep 2022 and Oct 2022.
+
+All of these samples are San Joaquin County samples only.
