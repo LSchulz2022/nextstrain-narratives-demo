@@ -1,5 +1,5 @@
 ---
-title: "SARS-CoV-2 cases in San Joaquin County, California from 1-Sep-2022 through 31-Dec-2022"
+title: "SARS-CoV-2 cases in San Joaquin County, California  1-Sep-2022 through 31-Dec-2022"
 authors: "Lonni Schulz"
 date: "January 12, 2023"
 dataset: https://nextstrain.org/ncov/gisaid/global/6m?c=emerging_lineage&d=tree&m=div&p=full)
