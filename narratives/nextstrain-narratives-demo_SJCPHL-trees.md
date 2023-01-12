@@ -191,7 +191,7 @@ All of these samples are San Joaquin County samples.
 
 
 
-# [San Joaquin County SARS-CoV-2 samples in a BF.5 cluster](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzMxMjksICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjMtMDEtMTNUMTk6MDE6NDcuNzEwNzk5KzAwOjAwIn0=.7c289d79e2088191a64179b6e852a36a91f0b9d51036e518f036578533aaa33410f09f278e71ed511d5cb44cae2385741891223d6f7470a1bfb2ea27641ff510?c=pango_lineage&d=tree&p=full)
+# [San Joaquin County SARS-CoV-2 samples in 2 BF.5 clusters](https://nextstrain.org/fetch/backend.czgenepi.org/v2/orgs/9/pathogens/SC2/auspice/access/eyJ0cmVlX2lkIjogNzMxMjksICJ1c2VyX2lkIjogMjI4LCAiZXhwaXJ5IjogIjIwMjMtMDEtMTNUMTk6MDE6NDcuNzEwNzk5KzAwOjAwIn0=.7c289d79e2088191a64179b6e852a36a91f0b9d51036e518f036578533aaa33410f09f278e71ed511d5cb44cae2385741891223d6f7470a1bfb2ea27641ff510?c=pango_lineage&d=tree&p=full)
 
 ```auspiceMainDisplayMarkdown
 
