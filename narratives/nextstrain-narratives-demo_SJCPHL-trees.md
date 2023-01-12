@@ -163,7 +163,7 @@ Showing 275 of 275 genomes sampled between Sep 2022 and Dec 2022.
 
 All of these samples except the original Wuhan sample are San Joaquin County samples.
 
-(Click on the down arrow after "Emerging Lineage" to see the list)
+(Click on the down arrow after "Pangolin lineage" to see the list)
 
 
 
