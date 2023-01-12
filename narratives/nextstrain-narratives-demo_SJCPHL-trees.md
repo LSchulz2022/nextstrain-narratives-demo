@@ -224,9 +224,11 @@ All of these samples are San Joaquin County samples.
 
 
 
-- 1 - Clusters do not appear to have led to further spread. Sampling was done between September 1, 2022 and December 31, 2022. All clusters consisted of samples dated in September, 2022 except for the BF.5 cluster, where samples were dated in October, 2022.
+- Clusters do not appear to have led to further spread. Sampling was done between September 1, 2022 and December 31, 2022. All clusters consisted of samples dated in September, 2022 except for the BF.5 cluster, where samples were dated in October, 2022.
 
 
- - 2 - San Joaquin County has fewer XBB.1 samples in number (3) and proportion (<1%) than Alameda, Amador, Contra Costa, Fresno, Imperial, Los Angeles, Marin, Monterey, Orange, Placer, Riverside, Sacramento, San Bernardino, San Diego, San Francisco, San Mateo, Santa Barbara, Santa Clara, Ventura counties.
+ - San Joaquin County has fewer XBB.1 samples in number (3) and proportion (<1%) than Alameda, Amador, Contra Costa, Fresno, Imperial, Los Angeles, Marin, Monterey, Orange, Placer, Riverside, Sacramento, San Bernardino, San Diego, San Francisco, San Mateo, Santa Barbara, Santa Clara, Ventura counties.
+
+
 <!-- - 3 - third point -->
 
